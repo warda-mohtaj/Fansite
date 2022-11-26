@@ -1,0 +1,238 @@
+body 
+{
+       cursor: url(images/gant.png), auto;
+}
+
+a:hover, button:hover
+{ 
+      cursor : url(images/gant.png), auto;
+
+}
+
+
+.un 
+{
+      background-image: url(images/mohamed.png);
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: right;
+      
+}
+
+
+p
+{
+    font-family: 'lobster'; 
+    
+
+}
+
+
+ul 
+{
+      position: relative; 
+      display: flex;
+      justify-content: space-around;
+
+}
+
+a {
+      color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.deux
+{
+      background-image: url(images/histoire.png);
+      background-size: 115%;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: left;
+
+}
+
+
+.haut 
+{
+      background-color: white;
+      border-radius: 10%;
+      margin-left: 26%;
+      margin-right: 26%;
+      opacity: 0.7;
+      
+
+}
+
+.milieu 
+{
+      background-color: white;
+      border-radius: 10%;
+      margin-left: 26%;
+      margin-right: 26%;
+      opacity: 0.7;
+      
+
+}
+
+.haut:hover 
+{
+      transform: scale(1.3);
+
+}
+
+.milieu:hover 
+{
+      transform: scale(1.3);
+
+}
+
+
+div > p
+{
+      color: black;
+}
+
+h1 
+{
+      color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.trois
+{
+      background-image: url(images/gants.png);
+      background-size: 50%;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      
+}
+
+iframe 
+{
+
+      background-color: darkgray;
+      border-radius: 10%;
+      margin-left: 30%;
+      margin-right: 30%;
+
+}
+
+
+.text
+{
+      background-color: white;
+      border-radius: 20%;
+      margin-left: 35%;
+      margin-right: 35%;
+      opacity: 0.7;
+
+}
+
+.text:hover 
+{
+      transform: scale(1.3);
+
+}
+
+.text2
+{
+      background-color: white;
+      border-radius: 20%;
+      margin-left: 35%;
+      margin-right: 35%;
+      opacity: 0.9;
+
+}
+
+.text2:hover 
+{
+      transform: scale(1.3);
+
+}
+
+.text3
+{
+      background-color: white;
+      border-radius: 20%;
+      margin-left: 35%;
+      margin-right: 35%;
+      opacity: 0.9;
+
+}
+
+.text3:hover 
+{
+      transform: scale(1.3);
+
+}
+
+.text4
+{
+      background-color: white;
+      border-radius: 20%;
+      margin-left: 35%;
+      margin-right: 35%;
+      opacity: 0.7;
+
+}
+
+.text4:hover 
+{
+      transform: scale(1.3);
+
+}
+
+.text5
+{
+      background-color: white;
+      border-radius: 20%;
+      margin-left: 35%;
+      margin-right: 35%;
+      opacity: 0.7;
+
+}
+
+.text5:hover 
+{
+      transform: scale(1.3);
+
+}
+
+.comptefan 
+{
+      margin-top: 450px;
+
+}
